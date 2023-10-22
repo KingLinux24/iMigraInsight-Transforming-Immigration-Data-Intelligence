@@ -50,17 +50,15 @@ Our project collects and analyzes data from various sources, including:
 
 ## Contributors
 
-- [Your Name] - Project Lead
-- [Teammate 1] - Data Collection
-- [Teammate 2] - Model Development
-- [Teammate 3] - Data Visualization
+- [ISRAEL MBIYAVANGA DAVID] - Project Lead
+- [PAULINO SACABITA] - Data Collection
+- [EDVANIO BUMBA] - Model Development
+- [ISRAEL MBIYAVNGA DAVID] - Data Visualization
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- Thanks to [Mentor/Advisor Name] for guidance and support.
-- Special thanks to the [Data Source Name] for providing valuable immigration data.
+- Thanks to [Joe Bostian, Alex Osadchyy] for guidance and support.
+
 
